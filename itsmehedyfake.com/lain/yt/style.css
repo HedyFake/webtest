@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.tex{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-align: center;
+    padding-top: 2cm;
+}
+
+.kt{
+    padding-top: 4mm;
+    margin: 5px;
+    width: 10cm;
+}
