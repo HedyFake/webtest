@@ -1,0 +1,22 @@
+{
+    "daftar" : [
+        {
+            "title" : "Shell",
+            "desk" : "Shell web adalah antarmuka mirip cangkang yang memungkinkan server web diakses dari jarak jauh, seringkali untuk tujuan serangan siber .",
+            "path" : "shell.jpg",
+            "file" : "shel.html"
+    },
+    {
+        "title" : "CSRF",
+        "desk" : "CSRF adalah  salah satu cara tertua untuk mengeksploitasi kerentanan situs web.Menargetkan server web yang biasanya memerlukan otentikasi . ",
+        "path" :"csrf.jpeg",
+        "file" : "csrf.php"
+    },
+    {
+        "title" : "Youtube Osint",
+        "desk " : "Open source Youtube",
+        "path" : "yt.jpg",
+        "file" : "yt/"
+    }
+    ]
+}
